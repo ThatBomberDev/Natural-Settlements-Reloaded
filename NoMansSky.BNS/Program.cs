@@ -12,7 +12,8 @@ using libMBIN.NMS;
 using System.Diagnostics;
 #endif
 
-namespace NoMansSky.ModTemplate
+namespace NoMansSky.BNSReloaed
+
 {
     public class Program : IMod
     {
